@@ -1,5 +1,5 @@
 # ISW_G8_4K3_2025
-Repositorio de la materia Ingeniería y Calidad de Software, año 2025, segundo cuatrimestre, curso 4k3
+Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software del año 2025, 2do cuatrimestre, curso 4k3
 
 # Integrantes del grupo
 | Nombre | Legajo | Mail
