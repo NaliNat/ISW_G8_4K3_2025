@@ -1,7 +1,7 @@
 # ISW_G8_4K3_2025
 Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software del año 2025, 2do cuatrimestre, curso 4k3
 
-# Integrantes del grupo
+## 📝 Integrantes del grupo
 | Nombre | Legajo | Mail
 | ------------ | ------------ | ------------ |  
 | Enrique, Walter Ignacio | 71471 | walterignacioenrique@gmail.com |
