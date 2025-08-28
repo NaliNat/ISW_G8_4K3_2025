@@ -9,7 +9,7 @@ Repositorio de la materia Ingeniería y Calidad de Software, año 2025, segundo 
 | Benedetti, Angelo | 81699 | angelo.benedetti2910@gmail.com |
 | Sosa, Diego | 82397 | diegososa015@gmail.com |
 | Brito, Serena | 84066 | serenabrito01@gmail.com |
-| García, Valentina | 81705 | valentinacgarcia00@gmail .com |
+| García, Valentina | 81705 | valentinacgarcia00@gmail.com |
 | Fernandez, Santiago | 98965 | santinf789@gmail.com |
 | Tarquinio, Angel Valentín | 82127 | valentintarquinio2001@gmail.com |
 | Barrionuevo, Natalia Silvana | 87834 | barrionuevonatalia1998@gmail.com |
