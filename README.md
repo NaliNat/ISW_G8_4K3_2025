@@ -54,18 +54,18 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | Presentaciones Teóricas    | Presentacion\_&lt;Tema&gt;.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
 | Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf             | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED                             |
 | Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico                      |
-| Trabajos Prácticos         | TP<x>\_&lt;Tema&gt;.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
+| Trabajos Prácticos         | TP&lt;x&gt;\_&lt;Tema&gt;.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
 | README                     | README.md                         | ISW\_2025\_4k3\_G8/                                                               |
 
 ## 🗒️ Glosario
 | Sigla               | Significado                                      |
 | ------------------- | ------------------------------------------------ |
-| <Px>                | Número de parcial. Ej: P1, P2                    |
-| <TPx>               | Número de trabajo práctico. Ej: TP1, TP2, TPN    |
-| <Tema>              | Nombre o título del tema correspondiente         |
-| <Unidad>            | Número o nombre de la unidad de la materia       |
-| \<Nombre\_libro>    | Nombre o título del libro de bibliografía        |
-| <Autor>             | Apellido del autor principal de la bibliografía  |
+| &lt;Px&gt;                | Número de parcial. Ej: P1, P2                    |
+| &lt;TPx&gt;               | Número de trabajo práctico. Ej: TP1, TP2, TPN    |
+| &lt;Tema&gt;              | Nombre o título del tema correspondiente         |
+| &lt;Unidad&gt;            | Número o nombre de la unidad de la materia       |
+| &lt;Nombre\_libro&gt;    | Nombre o título del libro de bibliografía        |
+| &lt;Autor&gt;             | Apellido del autor principal de la bibliografía  |
 | ISW                 | Ingeniería de Software                           |
 | README              | Archivo de documentación inicial del repositorio |
 
