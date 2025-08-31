@@ -48,7 +48,7 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | -------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
 | Cronograma de cursada      | Cronograma\_ISW2025.pdf           | ISW\_2025\_4k3\_G8/                                                               |
 | Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf | ISW\_2025\_4k3\_G8/                                                               |
-| Bibliografía               | <Nombre_libro>_<Autor>.pdf        | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia                               |
+| Bibliografía               | \_&lt;Nombre_Libro&gt;_&lt;Autor&gt;.PDF         | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia                               |
 | Guías de ejercicios        | Guia\_Ejercicios\_<Unidad>.pdf    | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias                                      |
 | Parciales (Notas/Filminas) | Parcial\_<Px>\_<Tema>.pdf         | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Primer Parcial ó Segundo Parcial |
 | Presentaciones Teóricas    | Presentacion\_<Tema>.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
