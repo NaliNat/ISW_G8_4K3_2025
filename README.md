@@ -51,10 +51,10 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | Bibliografía               | &lt;Nombre_Libro&gt;_&lt;Autor&gt;.PDF  | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia                               |
 | Guías de ejercicios        | Nombre_Libro_&lt;Unidad&gt;.PDF       | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias                                      |
 | Parciales (Notas/Filminas) | Parcial\_&lt;Px&gt;\_&lt;Tema&gt;.pdf         | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Primer Parcial ó Segundo Parcial |
-| Presentaciones Teóricas    | Presentacion\_<Tema>.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
-| Charla TED                 | CharlaTED\_<Tema>.pdf             | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED                             |
-| Póster Científico          | PosterCientifico\_<Tema>.pdf      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico                      |
-| Trabajos Prácticos         | TP<x>\_<Tema>.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
+| Presentaciones Teóricas    | Presentacion\_&lt;Tema&gt;.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
+| Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf             | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED                             |
+| Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico                      |
+| Trabajos Prácticos         | TP<x>\_&lt;Tema&gt;.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
 | README                     | README.md                         | ISW\_2025\_4k3\_G8/                                                               |
 
 ## 🗒️ Glosario
