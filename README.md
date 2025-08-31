@@ -43,6 +43,7 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
     |
     └── README.md
 ```
+
 ## ⚙ Items de configuración
 | Ítem de Configuración      | Regla de Nombrado                 | Ubicación Física                                                                  |
 | -------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
@@ -68,7 +69,6 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | &lt;Autor&gt;             | Apellido del autor principal de la bibliografía  |
 | ISW                 | Ingeniería de Software                           |
 | README              | Archivo de documentación inicial del repositorio |
-
 
 ## ✅ Criterio Linea Base
 Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia de evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
