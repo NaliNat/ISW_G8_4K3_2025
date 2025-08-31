@@ -44,8 +44,31 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
     └── README.md
 ```
 ## ⚙ Items de configuración
+| Ítem de Configuración      | Regla de Nombrado                 | Ubicación Física                                                                  |
+| -------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
+| Cronograma de cursada      | Cronograma\_ISW2025.pdf           | ISW\_2025\_4k3\_G8/                                                               |
+| Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf | ISW\_2025\_4k3\_G8/                                                               |
+| Bibliografía               | \<Nombre\_libro>\_<Autor>.pdf     | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia                               |
+| Guías de ejercicios        | Guia\_Ejercicios\_<Unidad>.pdf    | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias                                      |
+| Parciales (Notas/Filminas) | Parcial\_<Px>\_<Tema>.pdf         | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Primer Parcial ó Segundo Parcial |
+| Presentaciones Teóricas    | Presentacion\_<Tema>.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
+| Charla TED                 | CharlaTED\_<Tema>.pdf             | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED                             |
+| Póster Científico          | PosterCientifico\_<Tema>.pdf      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico                      |
+| Trabajos Prácticos         | TP<x>\_<Tema>.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
+| README                     | README.md                         | ISW\_2025\_4k3\_G8/                                                               |
 
-## 🗒️ Glorasio
+## 🗒️ Glosario
+| Sigla               | Significado                                      |
+| ------------------- | ------------------------------------------------ |
+| <Px>                | Número de parcial. Ej: P1, P2                    |
+| <TPx>               | Número de trabajo práctico. Ej: TP1, TP2, TPN    |
+| <Tema>              | Nombre o título del tema correspondiente         |
+| <Unidad>            | Número o nombre de la unidad de la materia       |
+| \<Nombre\_libro>    | Nombre o título del libro de bibliografía        |
+| <Autor>             | Apellido del autor principal de la bibliografía  |
+| ISW                 | Ingeniería de Software                           |
+| README              | Archivo de documentación inicial del repositorio |
+
 
 ## ✅ Criterio Linea Base
 Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia de evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
