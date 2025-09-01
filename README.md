@@ -44,18 +44,18 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 
 ## ⚙ Ítems de configuración
 | Ítem de Configuración      | Regla de Nombrado                                | Ubicación Física                                                                    | Tipo de Ítem |
-| -------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------- | |
-| Cronograma de cursada      | Cronograma\_ISW2025.pdf                          | ISW\_2025\_4k3\_G8/                                                                 | |
-| Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf                | ISW\_2025\_4k3\_G8/                                                                 | |
-| Bibliografía               | &lt;Nombre_Libro&gt;.pdf                         | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia/                                | |
-| Guías de ejercicios        | Guía\_&lt;Tema&gt;.pdf                           | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias/                                       | |
-| Filminas                   | &lt;N&gt;\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Filminas/       | |
-| Notas de Clase             | &lt;N&gt;\_&lt;Tema&gt;\_&lt;Fecha&gt;.pdf       | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Notas de Clase/ | |
-| Lineamientos               | Lineamientos para trabajos de investigación.pdf  | ISW\_2025\_4k3\_G8/Presentaciones teoricas/                                         | |
-| Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | |
-| Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf               | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | |
-| Trabajos Prácticos         | &lt;TPx&gt;\_&lt;Tema&gt;.pdf                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx/                                          | |
-| README                     | README.md                                        | ISW\_2025\_4k3\_G8/                                                                 | |
+| -------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------- | -- |
+| Cronograma de cursada      | Cronograma\_ISW2025.pdf                          | ISW\_2025\_4k3\_G8/                                                                 | .. |
+| Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf                | ISW\_2025\_4k3\_G8/                                                                 | .. |
+| Bibliografía               | &lt;Nombre_Libro&gt;.pdf                         | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia/                                | .. |
+| Guías de ejercicios        | Guía\_&lt;Tema&gt;.pdf                           | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias/                                       | .. |
+| Filminas                   | &lt;N&gt;\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Filminas/       | .. |
+| Notas de Clase             | &lt;N&gt;\_&lt;Tema&gt;\_&lt;Fecha&gt;.pdf       | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Notas de Clase/ | .. |
+| Lineamientos               | Lineamientos para trabajos de investigación.pdf  | ISW\_2025\_4k3\_G8/Presentaciones teoricas/                                         | .. |
+| Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | .. |
+| Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf               | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | .. |
+| Trabajos Prácticos         | &lt;TPx&gt;\_&lt;Tema&gt;.pdf                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx/                                          | .. |
+| README                     | README.md                                        | ISW\_2025\_4k3\_G8/                                                                 | .. |
 
 ## 🗒️ Glosario
 | Sigla                     | Significado                                                        |
