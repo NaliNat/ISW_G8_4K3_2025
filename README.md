@@ -24,10 +24,10 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
     |   ├── Guias/                                                  
     |   |
     |   └── Parciales/
-    |       ├── Primer Parcial/
+    |       ├── Parcial 1/
     |       |   └── Filminas/
     |       |   └── Notas de clase/
-    |       └── Segundo Parcial/
+    |       └── Parcial 2/
     |           └── Filminas/
     |           └── Notas de clase/
     |   
@@ -43,30 +43,31 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 ```
 
 ## ⚙ Ítems de configuración
-| Ítem de Configuración      | Regla de Nombrado                 | Ubicación Física                                                                  |
-| -------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
-| Cronograma de cursada      | Cronograma\_ISW2025.pdf           | ISW\_2025\_4k3\_G8/                                                               |
-| Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf | ISW\_2025\_4k3\_G8/                                                               |
-| Bibliografía               | &lt;Nombre_Libro&gt;_&lt;Autor&gt;.PDF  | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia                               |
-| Guías de ejercicios        | Nombre_Libro_&lt;Unidad&gt;.PDF       | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias                                      |
-| Parciales (Notas/Filminas) | Parcial\_&lt;Px&gt;\_&lt;Tema&gt;.pdf         | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Primer Parcial ó Segundo Parcial |
-| Presentaciones Teóricas    | Presentacion\_&lt;Tema&gt;.pdf          | ISW\_2025\_4k3\_G8/Presentaciones teoricas                                        |
-| Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf             | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED                             |
-| Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico                      |
-| Trabajos Prácticos         | TP&lt;x&gt;\_&lt;Tema&gt;.pdf                 | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx                                         |
-| README                     | README.md                         | ISW\_2025\_4k3\_G8/                                                               |
+| Ítem de Configuración      | Regla de Nombrado                                | Ubicación Física                                                                    | Tipo de Ítem |
+| -------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------- | |
+| Cronograma de cursada      | Cronograma\_ISW2025.pdf                          | ISW\_2025\_4k3\_G8/                                                                 | |
+| Programa de la materia     | Programa\_Asignatura\_ISW2025.pdf                | ISW\_2025\_4k3\_G8/                                                                 | |
+| Bibliografía               | &lt;Nombre_Libro&gt;.pdf                         | ISW\_2025\_4k3\_G8/Materiales de Clase/Bibliografia/                                | |
+| Guías de ejercicios        | Guía\_&lt;Tema&gt;.pdf                           | ISW\_2025\_4k3\_G8/Materiales de Clase/Guias/                                       | |
+| Filminas                   | &lt;N&gt;\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Filminas/       | |
+| Notas de Clase             | &lt;N&gt;\_&lt;Tema&gt;\_&lt;Fecha&gt;.pdf       | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;Px&gt;/Notas de Clase/ | |
+| Lineamientos               | Lineamientos para trabajos de investigación.pdf  | ISW\_2025\_4k3\_G8/Presentaciones teoricas/                                         | |
+| Charla TED                 | CharlaTED\_&lt;Tema&gt;.pdf                      | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | |
+| Póster Científico          | PosterCientifico\_&lt;Tema&gt;.pdf               | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | |
+| Trabajos Prácticos         | &lt;TPx&gt;\_&lt;Tema&gt;.pdf                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TPx/                                          | |
+| README                     | README.md                                        | ISW\_2025\_4k3\_G8/                                                                 | |
 
 ## 🗒️ Glosario
-| Sigla               | Significado                                      |
-| ------------------- | ------------------------------------------------ |
-| &lt;Px&gt;                | Número de parcial. Ej: P1, P2                    |
-| &lt;TPx&gt;               | Número de trabajo práctico. Ej: TP1, TP2, TPN    |
-| &lt;Tema&gt;              | Nombre o título del tema correspondiente         |
-| &lt;Unidad&gt;            | Número o nombre de la unidad de la materia       |
-| &lt;Nombre\_libro&gt;    | Nombre o título del libro de bibliografía        |
-| &lt;Autor&gt;             | Apellido del autor principal de la bibliografía  |
-| ISW                 | Ingeniería de Software                           |
-| README              | Archivo de documentación inicial del repositorio |
+| Sigla                     | Significado                                                        |
+| --------------------------| ------------------------------------------------------------------ |
+| &lt;N&gt;                 | N es un número incremental. Ej: 00, 01, n, etc.                    |
+| &lt;Px&gt;                | Número de parcial. Ej: P1, P2                                      |
+| &lt;TPx&gt;               | Número de trabajo práctico. Ej: TP1, TP2, TPN                      |
+| &lt;Tema&gt;              | Nombre o título del tema correspondiente                           |
+| &lt;Nombre\_libro&gt;     | Nombre o título del libro de bibliografía                          |
+| &lt;Fecha&gt;             | Fecha correspondiente al día que se dictó la clase. Formato: mm-dd |
+| ISW                       | Ingeniería de Software                                             |
+| README                    | Archivo de documentación inicial del repositorio                   |
 
 ## ✅ Criterio Linea Base
 Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia parcial evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada examen parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
