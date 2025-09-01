@@ -23,28 +23,26 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
     |   |                                                       
     |   ├── Guias/                                                  
     |   |
-    |   ├── Parciales/
-    |   |   ├── Primer Parcial/
-    |   |   |   └── Filminas/
-    |   |   |   └── Notas de clase/
-    |   |   ├── Segundo Parcial/
-    |   |   |   └── Filminas/
-    |   |   |   └── Notas de clase/
-    |   |
+    |   └── Parciales/
+    |       ├── Primer Parcial/
+    |       |   └── Filminas/
+    |       |   └── Notas de clase/
+    |       └── Segundo Parcial/
+    |           └── Filminas/
+    |           └── Notas de clase/
+    |   
     ├── Presentaciones teoricas/
     |   ├── Charla TED/
     |   |
-    |   ├── Poster Cientifico/
-    |   |
-    ├── Trabajos Practicos/
-    |   ├── TP1/
-    |   ├── TP2/
-    |   ├── TPN/
-    |
-    └── README.md
+    |   └── Poster Cientifico/
+    |   
+    └── Trabajos Practicos/
+        ├── TP1/
+        ├── TP2/
+        └── TPN/
 ```
 
-## ⚙ Items de configuración
+## ⚙ Ítems de configuración
 | Ítem de Configuración      | Regla de Nombrado                 | Ubicación Física                                                                  |
 | -------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
 | Cronograma de cursada      | Cronograma\_ISW2025.pdf           | ISW\_2025\_4k3\_G8/                                                               |
@@ -71,5 +69,5 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | README              | Archivo de documentación inicial del repositorio |
 
 ## ✅ Criterio Linea Base
-Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia de evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
+Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia parcial evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada examen parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
 
