@@ -54,16 +54,18 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 | Lineamientos               | Lineamientos\_para\_trabajos\_de\_investigacion.pdf  | ISW\_2025\_4k3\_G8/Presentaciones teoricas/                                         | Recurso de la Cátedra |
 | Charla TED                 | Charla\_TED\_&lt;Tema&gt;.pdf                     | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | Material Propio |
 | Póster Científico          | Poster\_Cientifico\_&lt;Tema&gt;.pdf              | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | Material Propio |
-| Trabajos Prácticos         | TP&lt;N&gt;\_&lt;Tema&gt;.pdf                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TP&lt;N&gt;/                                  | Material Propio |
+| Trabajos Prácticos         | TP&lt;N&gt;\_&lt;M&gt;_&lt;Tema&gt;_&lt;TipoDeResolucion&gt;_&lt;Fecha&gt;.&lt;ext&gt;                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TP&lt;N&gt;/                                  | Material Propio |
 | Plan de SCM                | Plan\_de\_SCM\_ISW2025.pdf                          | ISW\_2025\_4k3\_G8/                                                                 | Material Propio |
 
 ## 🗒️ Glosario
 | Sigla                     | Significado                                                        |
 | --------------------------| ------------------------------------------------------------------ |
 | &lt;N&gt;                 | N es un número incremental. Ej: 00, 01, n, etc.                    |
+| &lt;M&gt;                 | M es un número incremental, independiente de N dentro del nombre de un mismo Ítem de Configuración. Ej: 00, 01, n, etc.                    |
 | &lt;Tema&gt;              | Nombre o título del tema correspondiente                           |
 | &lt;Nombre\_Material&gt;  | Nombre o título del libro/paper de bibliografía                    |
 | &lt;Fecha&gt;             | Fecha correspondiente al día que se dictó la clase. Formato: mm-dd |
+| &lt;ext&gt;              | Nombre de la extensión de un archivo identificado como ítem de configuración |
 | ISW                       | Ingeniería y Calidad de Software                                   |
 | SCM                       | Software Configuration Management                                  |
 
