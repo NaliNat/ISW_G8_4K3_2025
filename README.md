@@ -17,7 +17,7 @@ Repositorio dedicado para gestionar la materia Ingeniería y Calidad de Software
 
 ## 📝 Estructura del Repositorio
 ```
-└── ISW_G8_4K3_2025
+ISW_G8_4K3_2025
     ├── Materiales de Clase/                                                 
     |   ├── Bibliografia/
     |   |                                                       
