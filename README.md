@@ -72,4 +72,13 @@ ISW_G8_4K3_2025
 
 ## ✅ Criterio Línea Base
 Como grupo, hemos establecido que el criterio para definir una nueva línea base estará dado por cada instancia parcial evaluativa, es decir, luego de cada parcial realizado. De esta forma, utilizaremos cada examen parcial como un hito clave dentro de la gestión de configuración de software, lo que nos permitirá medir avances, consolidar cambios y garantizar la estabilidad de la versión en el repositorio.
+Cada línea base tiene un nombre con la siguiente nomenclatura:
+v[MAJOR].[MINOR]
+
+## 🚩 Líneas base disponibles: 
+
+| Nombre | Fecha | Descripción
+| ------------ | ------------ | ------------ | 
+| v1.0 | 30/09/2025 | Primer parcial rendido el 27/09/2025 | 
+
 
