@@ -1,0 +1,49 @@
+# Entornos virtuales
+venv/
+env/
+**/venv/
+**/env/
+backend/venv/
+*/venv/
+
+# Paquetes del sistema / dependencias
+backend/venv/
+backend/venv/**
+
+# Archivos compilados y caches
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# Bases de datos locales / archivos de instancia
+backend/instance/*.db
+*/instance/*.db
+
+# IDEs / editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS generated files
+desktop.ini
+
+# Optional: ignore node_modules if present
+node_modules/
