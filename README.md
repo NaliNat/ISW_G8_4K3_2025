@@ -80,5 +80,9 @@ v[MAJOR].[MINOR]
 | Nombre | Fecha | Descripción
 | ------------ | ------------ | ------------ | 
 | v1.0 | 30/09/2025 | Primer parcial rendido el 27/09/2025 | 
+| v2.0 | 9/11/2025 | Segundo parcial rendido el 08/11/2025 | 
+| v3.0 | 01/12/2025 | Recuperatorio parcial rendido el 29/11/2025 | 
+
+
 
 
