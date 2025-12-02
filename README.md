@@ -52,8 +52,8 @@ ISW_G8_4K3_2025
 | Filminas                   | PPT\_&lt;N&gt;\_&lt;Tema&gt;.pdf                  | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;N&gt;/Filminas/        | Recurso de la Cátedra |
 | Notas de Clase             | Nota\_&lt;N&gt;\_&lt;Tema&gt;\_&lt;Fecha&gt;.pdf  | ISW\_2025\_4k3\_G8/Materiales de Clase/Parciales/Parcial &lt;N&gt;/Notas de Clase/  | Material Propio |
 | Lineamientos               | Lineamientos\_para\_trabajos\_de\_investigacion.pdf  | ISW\_2025\_4k3\_G8/Presentaciones teoricas/                                         | Recurso de la Cátedra |
-| Charla TED                 | Charla\_TED\_&lt;Tema&gt;.pdf                     | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | Material Propio |
-| Póster Científico          | Poster\_Cientifico\_&lt;Tema&gt;.pdf              | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | Material Propio |
+| Charla TED                 | Charla\_TED\_&lt;N&gt;\_&lt;Tema&gt;.pdf                     | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Charla TED/                              | Material Propio |
+| Póster Científico          | Poster\_Cientifico\_&lt;N&gt;\_&lt;Tema&gt;.pdf              | ISW\_2025\_4k3\_G8/Presentaciones teoricas/Poster Cientifico/                       | Material Propio |
 | Trabajos Prácticos         | TP&lt;N&gt;\_&lt;M&gt;\_&lt;Tema&gt;\_&lt;TipoDeResolucion&gt;\_&lt;Fecha&gt;.&lt;ext&gt;                    | ISW\_2025\_4k3\_G8/Trabajos Practicos/TP&lt;N&gt;/                                  | Material Propio |
 | Plan de SCM                | Plan\_de\_SCM\_ISW2025.pdf                          | ISW\_2025\_4k3\_G8/                                                                 | Material Propio |
 
